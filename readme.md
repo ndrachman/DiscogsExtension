@@ -1,6 +1,6 @@
 # Discogs Ships From Filter
 
-A Chrome extension that adds country filtering to your Discogs wantlist. While Discogs provides country filtering in the main marketplace, this functionality is missing from the "Items I Want" view. This extension fixes that by adding the same filtering capability to your wantlist.
+A Chrome extension that adds country filtering to your Discogs wantlist. While Discogs provides country filtering in the main marketplace, this functionality is missing from the "Items I Want" view. This extension fixes that by adding the same filtering capability to your 'Items I Want' view in the Discogs marketplace.
 
 ## Features
 
