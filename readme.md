@@ -47,10 +47,6 @@ Contributions are welcome! If you'd like to improve the extension:
 
 If you find this extension useful I would greatly appreciate any small donation to paypal.me/NickDrachman!
 
-## License
-
-[Your chosen license]
-
 ## Privacy
 
 This extension does not collect, store, or transmit any user data. It only reads the publicly visible shipping location information from your Discogs wantlist page to enable filtering. See our [privacy policy](your_privacy_policy_url) for more details.
