@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Discogs Ships From Filter",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "description": "Improve your Discogs marketplace experience by filtering your 'Items I Want' list based on which country they ship from.",
   "author": {
     "email": "Nicholas.Drachman@gmail.com"
