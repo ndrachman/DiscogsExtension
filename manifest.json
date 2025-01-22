@@ -19,9 +19,6 @@
     },
     "default_title": "Discogs Ships From Filter"
   },
-  "permissions": [
-    "activeTab"
-  ],
   "host_permissions": [
     "https://www.discogs.com/sell/mywants*"
   ],
